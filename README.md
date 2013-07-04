@@ -1,4 +1,4 @@
-the_chat
-========
+bottom_bar
+==========
 
-Add simple chat one-to-one for Elgg with facebook plugin.
+Simple chat one-to-one
