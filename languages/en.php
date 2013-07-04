@@ -15,7 +15,7 @@
 		'bbar:admin:allowradio'		=> 'Enable Radio button?',
 		'bbar:admin:allowsounds'	=> 'Enable Chat notification sounds?',
 		'bbar:admin:radiourl'		=> 'Stream URL for radio<br>(must be an MP3, or an icecast server)',
-		'bbar:admin:logolocation'	=> 'Logo image to be used bottom left:<br>(Leave blank to use the default. Can be jpg,gif or png. File to be stored in /mod/bottom_bar/graphics/icons/)',
+		'bbar:admin:logolocation'	=> 'Logo image to be used bottom left:<br>(Leave blank to use the default. Can be jpg,gif or png. File to be stored in /mod/the_chat/graphics/icons/)',
 
 		'bbar:admin:dbopts'		=> 'Database Options',
 		'bbar:admin:dboptsdesc'		=> 'This plugin can use either its own SQLite database (which should be suitable for small to medium size sites) or can be upscaled to use MySQL via ELGG objects. If you are unsure about which setting to use, stick with SQLite',

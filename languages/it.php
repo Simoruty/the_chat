@@ -6,7 +6,7 @@
 
 		'bbar:admin:basicopts' 		=> 'Opzioni di base',
 		'bbar:admin:refreshrate'	=> 'Frequenza di aggiornamento <br>(Tempi lunghi = Meno sovraccarichi del server)',
-		'bbar:admin:idlethreshold'	=> 'Soglia di inattività dell\'utente',
+		'bbar:admin:idlethreshold'	=> 'Soglia di inattivit� dell\'utente',
 		'bbar:admin:offlinethreshold'	=> 'User offline threshold',
 		'bbar:admin:allowchat'		=> 'Abilita chat?',
 		'bbar:admin:forceloginpage'	=> 'Force users to the login page if logged out?',
@@ -14,7 +14,7 @@
 		'bbar:admin:allowradio'		=> 'Enable Radio button?',
 		'bbar:admin:allowsounds'	=> 'Enable Chat notification sounds?',
 		'bbar:admin:radiourl'		=> 'Stream URL for radio<br>(must be an MP3, or an icecast server)',
-		'bbar:admin:logolocation'	=> 'Logo image to be used bottom left:<br>(Leave blank to use the default. Can be jpg,gif or png. File to be stored in /mod/bottom_bar/graphics/icons/)',
+		'bbar:admin:logolocation'	=> 'Logo image to be used bottom left:<br>(Leave blank to use the default. Can be jpg,gif or png. File to be stored in /mod/the_chat/graphics/icons/)',
 
 		'bbar:admin:dbopts'		=> 'Opzioni del Database',
 		'bbar:admin:dboptsdesc'		=> 'Questo plugin può essere usato o dal nostro SQLite database oppure usando MySQL tramite oggetti ELGG. Se non sei sicuro dei settaggi da usare, utilizza SQLite',
