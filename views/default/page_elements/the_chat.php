@@ -2,6 +2,10 @@
      $friends = $_SESSION['user']->getFriends("", 1000);
  	 $showFriendIcon = elgg_get_plugin_user_setting("friends_icons",$_SESSION['user']->guid,"the_chat") != "false";
      $chatEnable = elgg_get_plugin_user_setting("chat_enabled",$_SESSION['user']->guid,"the_chat") != "false";
+
+    // elgg_set_plugin_user_setting("friends_icons",$showFriendIcon,$_SESSION['user']->guid,"the_chat");
+    // elgg_set_plugin_user_setting("chat_enabled",$chatEnable,$_SESSION['user']->guid,"the_chat");
+     
      $numFriendsOnline = 0;
      $friends = $_SESSION['user']->getFriends("", 1000);
 
