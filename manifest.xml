@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin_manifest>
 <field key="author" value="Simone Rutigliano" />
-<field key="version" value="1.4" />
+<field key="version" value="1.5" />
 <field key="description" value="Add chat plugin to elgg." ></field>
 <field key="licence" value="GNU Public License version 2" />
 <field key="elgg_version" value="1.8.15" />
