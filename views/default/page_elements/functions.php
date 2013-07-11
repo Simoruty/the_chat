@@ -425,13 +425,9 @@ function restructureChatBoxes() {
 	}
     }
 
-    
-   
 
-    // Smiley replacement code! ;)
-
-    var smiley_array = [":)",":D","8)",":P",":P",":o",":O",":(",":'(",";)",":lol:",":mad:",":heartbeat:",":love:",":eprop:",":wave:",":sunny:",":wha:",":yes:",":sleepy:",":rolleyes:",":lookaround:",":eek:",":confused_2:",":nono:",":fun:",":goodjob:",":giggle:",":cry:",":shysmile:",":jealous:",":whocares:",":spinning:",":coolman:",":littlekiss:",":laugh:"];
-    var smiley_xhtml = ['ss.png','d.png','mafia.png','p.png','p.png','oh.png','oh.png','sad.png','cry.png','zmik.png',"Smileylol.gif","7_mad.gif","heartbeating.gif","SmileLove.gif","eProp.gif","SmileyWave.gif","sunnySmiley.gif","wha.gif","yes.gif","Smileysleep.gif","Smileyrolleyes.gif","SmileyLookaround.gif","Smileyeek.gif","Smileyconfused.gif","SmileyAnimatedNoNo.gif","propeller.gif","goodjob.gif","emot-giggle.gif","blueAnimatedCry.gif","Animatedshysmile.gif","AliceJealous.gif","19_indifferent.gif","Smileyspinning.gif","25_coolguy.gif","AliceSmileyAnimatedBlinkKiss.gif","LaughingAgua.gif"];
+    var smiley_array;
+    var smiley_xhtml;
  
     function bbParseText(text)
     {
